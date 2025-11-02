@@ -143,7 +143,7 @@ def train_challenger_flow(year: int, month_train: str, month_val: str):
     # Comparar y actualizar @champion
     compare_and_update_champion(challenger_version, challenger_rmse)
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     year = 2025
     month_train = "01"
     month_val = "02"
