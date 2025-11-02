@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/josealmendarez/Desktop/nyc-taxi-predictions-2025/tarea6/mlruns/0/d68522a1cb824050afa6ee86a164478d/artifacts
+end_time: 1762080615885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d68522a1cb824050afa6ee86a164478d
+run_name: trial_1_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762080608294
+status: 3
+tags: []
+user_id: josealmendarez
